@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIDOGE - The AI-Powered Meme Token</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(90deg, #1a1a2e, #16213e);
+            color: white;
+        }
+        header {
+            background-color: #0f3460;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3rem;
+        }
+        header p {
+            font-size: 1.2rem;
+            color: #00a8cc;
+        }
+        .content {
+            padding: 40px;
+            text-align: center;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .features div {
+            background: #16213e;
+            padding: 20px;
+            border-radius: 10px;
+            width: 30%;
+        }
+        .features div h3 {
+            color: #00a8cc;
+        }
+        footer {
+            background-color: #0f3460;
+            padding: 10px;
+            text-align: center;
+        }
+        .cta {
+            margin: 40px 0;
+        }
+        .cta a {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #00a8cc;
+            color: white;
+            text-decoration: none;
+            font-size: 1.2rem;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to AIDOGE</h1>
+        <p>The smartest meme token powered by AI</p>
+    </header>
+    <div class="content">
+        <h2>Why Choose $AIDOGE?</h2>
+        <div class="features">
+            <div>
+                <h3>AI-Powered Fun</h3>
+                <p>Generate memes and explore AI creativity with AIDOGE.</p>
+            </div>
+            <div>
+                <h3>Community Driven</h3>
+                <p>Join the vibrant AIDOGE community and make an impact.</p>
+            </div>
+            <div>
+                <h3>Deflationary Model</h3>
+                <p>Scarcity grows as tokens are burned over time.</p>
+            </div>
+        </div>
+        <div class="cta">
+            <a href="#">Buy AIDOGE Now</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 AIDOGE. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
